@@ -280,7 +280,7 @@ Careers
 Business Contacts
 Blog
 
-&copy; 2022 Cryptex All Rights Reserved by earnwithearnav
+&copy; 2022 Cryptex All Rights Reserved by earnwitharnav
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
